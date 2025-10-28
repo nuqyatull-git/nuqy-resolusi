@@ -1,3 +1,4 @@
 Nuqy Resolusi
 - Konsisten belajar programming
 - Membuat proyek sederhana
+- Membuat web sederhana
